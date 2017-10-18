@@ -16,5 +16,5 @@ Linux  or Windows 8 or higher version
 
 Mode to run:
 download to PredictorUXRC2.jar from github url:https://github.com/whuera/PredictorAppExecutable.git
-and then double click in the file or type in console java -jar PredictorUXRC2.jar 
+and then double click in the file or type in console this command: java -jar PredictorUXRC2.jar 
 
